@@ -1,0 +1,19 @@
+# compiled output
+dist
+tmp
+__build__
+
+# dependencies
+/bower_components
+node_modules
+
+# misc
+/.vagrant
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+npm-debug.log
+testem.log
+
+npm-debug.log.*
