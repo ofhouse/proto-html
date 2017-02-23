@@ -16,5 +16,5 @@ The project has auto-refresh if you edit one of the files in the `/src`-folder.
 
 - To start the webserver on [localhost:1414](http://localhost:1414), type
 ```sh
-$ npm start
+$ yarn start
 ```
